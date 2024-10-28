@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Automatic drink dispenser**
 
-- 👨‍💻 All of my projects are available at [http://mpsw.fam-schindler.de/home/](http://mpsw.fam-schindler.de/home/)
-
 - 📫 How to reach me **pascal@fam-schindler.de**
 
 <h3 align="left">Languages and Tools:</h3>
